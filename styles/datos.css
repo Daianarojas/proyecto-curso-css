@@ -1,0 +1,40 @@
+h2{
+    text-align: center;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid orangered;
+    background-color: rgb(255, 136, 0);
+}
+th{
+    background-color: rgba(255, 68, 0, 0.493);
+    border: 2px solid orangered;
+    padding: 10px;
+}
+.col1{
+    border: 2px solid orangered;
+    padding:5px;
+   
+}
+
+
+td{
+    border: 2px solid orangered;
+    padding:5px;
+    text-align: center;
+
+    
+}
+.cuidados{
+    font-weight: bold;
+}
+p{
+    text-align: center;
+    font-family:fantasy;
+    font-size: small;
+
+}
